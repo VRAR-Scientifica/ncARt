@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="CH4_buckfull" size="50.000000 48.985241" />
+    <ImageTarget name="CH4_benzene" size="50.000000 33.866665" />
+    <ImageTarget name="CHP_6_STRCH" size="50.000000 75.821594" />
+    <ImageTarget name="CHP_6_DB_CRCL" size="50.000000 98.066299" />
+    <ImageTarget name="CHP_6_DGSTVSYS" size="50.000000 98.469391" />
+    <ImageTarget name="CHP_6_DIALS" size="50.000000 50.000000" />
+    <ImageTarget name="CHP_6_LNG" size="50.000000 47.029701" />
+    <ImageTarget name="CHP_6_KCl_EXP" size="50.000000 26.781326" />
+    <ImageTarget name="CHP_6_MSRBP" size="50.000000 20.597738" />
+    <ImageTarget name="CH4_O2MOL" size="15.000000 10.829268" />
+    <ImageTarget name="CH4_METHANE" size="15.000000 14.915414" />
+    <ImageTarget name="CHP_6_RSPRHUM" size="50.000000 57.083332" />
+    <ImageTarget name="CHP_6_HEART" size="50.000000 61.574074" />
+    <ImageTarget name="CHP_6_RSPRTN" size="50.000000 56.060608" />
+    <ImageTarget name="CHP_6_STMTA" size="50.000000 21.538462" />
+    <ImageTarget name="CH7_TOUCH_ME_NOT" size="50.000000 37.691238" />
+    <ImageTarget name="CH7_REFLEX_ARC" size="50.000000 42.767735" />
+    <ImageTarget name="CH7_BRAIN" size="50.000000 55.803570" />
+    <ImageTarget name="CH7_NEURON" size="50.000000 18.194445" />
+    <ImageTarget name="CHP_6_CSOL" size="50.000000 52.330334" />
+  </Tracking>
+</QCARConfig>
