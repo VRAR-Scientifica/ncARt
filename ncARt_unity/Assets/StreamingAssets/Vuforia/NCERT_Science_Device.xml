@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="CH4_graphite" size="50.000000 53.503788" />
     <ImageTarget name="ch7_BRAINfinal" size="50.000000 33.207832" />
     <ImageTarget name="ch7_plantLIGHT" size="50.000000 34.372005" />
     <ImageTarget name="CH7_PLANTTROP" size="50.000000 25.683060" />
