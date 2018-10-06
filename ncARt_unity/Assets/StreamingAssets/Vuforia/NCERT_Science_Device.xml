@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="ch7_BRAINfinal" size="50.000000 33.207832" />
+    <ImageTarget name="ch7_plantLIGHT" size="50.000000 34.372005" />
+    <ImageTarget name="CH7_PLANTTROP" size="50.000000 25.683060" />
+    <ImageTarget name="ch7_neuromuscular-junction" size="50.000000 26.149916" />
+    <ImageTarget name="ch7_male-endocrine-system" size="50.000000 58.683067" />
+    <ImageTarget name="ch7_female-endocrine-system" size="50.000000 51.768032" />
+    <ImageTarget name="CH4_micelles" size="50.000000 39.741520" />
+    <ImageTarget name="CH14_windmill" size="50.000000 65.532288" />
+    <ImageTarget name="CH14_solarcooker" size="50.000000 44.666668" />
+    <ImageTarget name="CH14_solarcell" size="50.000000 79.237289" />
+    <ImageTarget name="ch14_dynamo" size="50.000000 9.600998" />
+    <ImageTarget name="ch14_dam" size="50.000000 31.797920" />
+    <ImageTarget name="CH14_biomass" size="50.000000 30.757097" />
+    <ImageTarget name="CH4_C2H6" size="50.000000 33.200001" />
+    <ImageTarget name="CH4_diamond" size="50.000000 51.581722" />
     <ImageTarget name="CH4_buckfull" size="50.000000 48.985241" />
     <ImageTarget name="CH4_benzene" size="50.000000 33.866665" />
     <ImageTarget name="CHP_6_STRCH" size="50.000000 75.821594" />
